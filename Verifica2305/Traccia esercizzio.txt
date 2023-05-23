@@ -1,0 +1,5 @@
+Consegna esercizio
+si vuole creare un progetto java dove dei container sono caratterizzati da un codice una stazza un
+carico e una temperature. 
+si vuole creare i metodi per l'aggiunta di un nuovo container, la ricerca di un container e la
+rimozione di un container
